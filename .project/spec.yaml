@@ -111,3 +111,7 @@ execution:
     target: /data/tensorboard/logs/
     description: Tensorboard Log Files
     options: volumeName=tensorboard-logs-volume
+  - type: host
+    target: /data/govinfo/
+    description: GovInfo Bulk Data
+    options: ""
