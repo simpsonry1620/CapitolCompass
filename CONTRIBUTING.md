@@ -4,7 +4,7 @@ First off, thank you for considering contributing to CapitolCompass! It's people
 
 ## Code of Conduct
 
-This project and everyone participating in it are governed by the CapitolCompass Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [your-email@domain.com].
+This project and everyone participating in it are governed by the CapitolCompass Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [rsimpson@nvidia.com].
 
 ## What Can I Do?
 
@@ -57,6 +57,6 @@ If you find yourself wishing for a feature that doesn't exist in CapitolCompass,
 
 ## Questions?
 
-Don't hesitate to contact me at [your-email@domain.com] if you have any questions or want to discuss your ideas before getting started.
+Don't hesitate to contact me at [rsimpson@nvidia.com] if you have any questions or want to discuss your ideas before getting started.
 
 Thank you for your interest in contributing to CapitolCompass!
