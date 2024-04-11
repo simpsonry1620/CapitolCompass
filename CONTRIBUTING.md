@@ -40,16 +40,7 @@ If you find yourself wishing for a feature that doesn't exist in CapitolCompass,
 - **Ensure your code adheres to the project's coding conventions** (if specified) and has been adequately tested.
 - **Document any change in behaviour** - Make sure the `README.md` and any other relevant documentation are kept up-to-date.
 - **Consider our release cycle** - We try to follow [SemVer v2.0.0](http://semver.org/). Randomly breaking public APIs is not an option.
-- **One pull request per feature** - If you want to do more than one thing, send multiple pull requests.
-
-## Pull Request Checklist
-
-- [ ] I have read the [guidelines for contributing](#).
-- [ ] I have performed a self-review of my own code or materials.
-- [ ] I have commented my code or provided relevant documentation, particularly in hard-to-understand areas.
-- [ ] I have made corresponding changes to the documentation.
-- [ ] My changes generate no new warnings.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
+- **One pull request per feature** - If you want to do more than one thing, send multiple pull requests. <a href="https://github.com/simpsonry1620/CapitolCompass/docs/PULL_REQUEST_TEMPLATE.md">Request Template</a>
 
 ## Acknowledgments
 
