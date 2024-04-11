@@ -4,7 +4,7 @@ First off, thank you for considering contributing to CapitolCompass! It's people
 
 ## Code of Conduct
 
-This project and everyone participating in it are governed by the CapitolCompass Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [rsimpson@nvidia.com].
+This project and everyone participating in it are governed by the CapitolCompass <a href="https://github.com/simpsonry1620/CapitolCompass/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>. By participating, you are expected to uphold this code. Please report unacceptable behavior to [rsimpson@nvidia.com].
 
 ## What Can I Do?
 
