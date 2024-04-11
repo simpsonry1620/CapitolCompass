@@ -24,7 +24,10 @@ CapitolCompass integrates a multi-faceted approach to address the challenges of 
 * <b>Speech-to-Text APIs:</b>  For converting congressional testimonies and debates into text.
 * <b>Semantic Search Engines:</b>  To enhance the searchability of legislative documents and data.
 
-
+## Environment Setup
+### Container
+* <b>Base Container:</b> nvcr.io/nvidia/ai-workbench/pytorch:1.0.2
+  
 ## How to Contribute
 We welcome contributions from the community! Here's how you can help:
 
