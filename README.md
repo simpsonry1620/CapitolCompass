@@ -1,6 +1,6 @@
 # CapitolCompass
 ## Overview
-CapitolCompass is an open-source Python <b>(in development)</b> project designed to automate and streamline legislative affairs workflows. By leveraging advanced technologies, including Large Language Models (LLMs), CapitolCompass assists organizations in navigating the complexities of legislative processes. This tool is crafted to enhance the efficiency of briefing organizational leadership on congressional testimonies, preparing talking points and congressional biographies, and analyzing bills and legislative proposals.
+CapitolCompass is an open-source Python project <b>(in development)</b> designed to automate and streamline legislative affairs workflows. By leveraging advanced technologies, including Large Language Models (LLMs), CapitolCompass assists organizations in navigating the complexities of legislative processes. This tool is crafted to enhance the efficiency of briefing organizational leadership on congressional testimonies, preparing talking points and congressional biographies, and analyzing bills and legislative proposals.
 
 ## Objectives
 * <b>Transcript Accessibility:</b> To create accessible, referenceable, and unambiguous transcripts of congressional testimonies that relate to organizational responsibilities.
