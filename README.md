@@ -13,7 +13,7 @@ CapitolCompass is an open-source Python project <b>(in development)</b> designed
 ## Methodology
 CapitolCompass integrates a multi-faceted approach to address the challenges of legislative affairs:
 
-* <b>Data Collection:</b> Aggregating data from verified PAI sources and organizational records.
+* <b>Data Collection:</b> Aggregating data from verified PAI sources and organizational records. Sources with be identified and tracked via <a href="https://github.com/simpsonry1620/CapitolCompass/wiki/Data-Sources">this wiki page</a>
 * <b>LLM Integration:</b> Employing LLMs for natural language processing tasks to interpret, summarize, and classify legislative documents.
 * <b>Analysis Tools:</b> Developing analytical tools to assess the impact of legislative changes on organizational policies and strategies.
 * <b>User Interface:</b> Providing a user-friendly interface for non-technical users to access and interact with legislative data and analyses.
