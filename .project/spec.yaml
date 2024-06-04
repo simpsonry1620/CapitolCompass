@@ -1,4 +1,5 @@
 specVersion: v2
+specMinorVersion: 1
 meta:
   name: CapitolCompass
   image: project-capitolcompass
@@ -44,6 +45,8 @@ environment:
         -o /dev/null -s -w ''%{http_code}'' --config -) == ''200'' ]'
       stop_command: jupyter lab stop 8888
       user_msg: ""
+      logfile_path: ""
+      timeout_seconds: 0
       icon_url: ""
       webapp_options:
         autolaunch: true
@@ -59,8 +62,10 @@ environment:
         --bind_all
       health_check_command: '[ \$(curl -o /dev/null -s -w ''%{http_code}'' http://localhost:\$TENSORBOARD_PORT\$PROXY_PREFIX/)
         == ''200'' ]'
-      stop_command: ""
+      stop_command: pkill tensorboard
       user_msg: ""
+      logfile_path: ""
+      timeout_seconds: 0
       icon_url: ""
       webapp_options:
         autolaunch: true
